@@ -54,7 +54,7 @@ $(document).ready(function () {
 
   // typing animation script
   var typed = new Typed(".typing", {
-    strings: ["Premium Quality Shoes", "Unbeatable Prices!", "Coming Soon!"],
+    strings: ["Coming Soon!","Premium Quality Shoes", "Coming Soon!","Unbeatable Prices!", ],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true,
